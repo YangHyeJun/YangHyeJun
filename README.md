@@ -1,8 +1,6 @@
 <!-- 헤더 이미지 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20Hyejun's%20GitHub!&fontSize=40&fontAlignY=35)
 
-<h1 align="center">✨ Welcome to Hyejun's GitHub ✨</h1>
-
 <!-- GitHub 통계 카드 -->
 ![Hyejun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YangHyeJun&show_icons=true&theme=radical)
 
