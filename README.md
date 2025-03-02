@@ -4,4 +4,5 @@
   <img src="https://img.shields.io/badge/-Learning-green?style=flat-square">
 </p>
 
-[![로고명]()](https://img.shields.io/badge/blue.svg?&style=for-the-badge&logo=FLUTTER&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
